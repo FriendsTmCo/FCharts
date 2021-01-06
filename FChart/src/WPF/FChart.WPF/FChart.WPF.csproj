@@ -8,4 +8,8 @@
     <Product>FChart</Product>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Charts\" />
+  </ItemGroup>
+
 </Project>
