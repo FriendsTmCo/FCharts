@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>FTmCo</Company>
+    <Product>FChart</Product>
+    <Authors>FtmCo</Authors>
+  </PropertyGroup>
+
+</Project>
