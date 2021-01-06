@@ -7,7 +7,7 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="78871eb1-131c-4e61-bda8-f9fb4e6fd8c5"
+    Name="FChartUWP"
     Publisher="CN=Motahar 1"
     Version="1.0.0.0" />
 
@@ -15,7 +15,7 @@
 
   <Properties>
     <DisplayName>FChart.UWP</DisplayName>
-    <PublisherDisplayName>Motahar 1</PublisherDisplayName>
+    <PublisherDisplayName>FriendsTmCo</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
