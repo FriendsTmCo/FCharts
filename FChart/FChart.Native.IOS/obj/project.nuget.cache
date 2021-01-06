@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KT9hj64vTdM8quZ22UYCC3N89a0oKkN8dHp+4J3PFf71UI2E6UEjDhbw/Y9XyGddb6gfXifuryI6ufVdJoPWcQ==",
+  "success": true,
+  "projectFilePath": "D:\\project\\FTEAM\\FCharts\\FChart\\FChart.Native.IOS\\FChart.Native.IOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

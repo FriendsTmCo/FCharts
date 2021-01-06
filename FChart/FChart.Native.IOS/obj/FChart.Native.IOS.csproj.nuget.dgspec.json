@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\project\\FTEAM\\FCharts\\FChart\\FChart.Native.IOS\\FChart.Native.IOS.csproj": {}
+  },
+  "projects": {
+    "D:\\project\\FTEAM\\FCharts\\FChart\\FChart.Native.IOS\\FChart.Native.IOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\project\\FTEAM\\FCharts\\FChart\\FChart.Native.IOS\\FChart.Native.IOS.csproj",
+        "projectName": "FChart.Native.IOS",
+        "projectPath": "D:\\project\\FTEAM\\FCharts\\FChart\\FChart.Native.IOS\\FChart.Native.IOS.csproj",
+        "packagesPath": "C:\\Users\\Amir Hossin\\.nuget\\packages\\",
+        "outputPath": "D:\\project\\FTEAM\\FCharts\\FChart\\FChart.Native.IOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Amir Hossin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
