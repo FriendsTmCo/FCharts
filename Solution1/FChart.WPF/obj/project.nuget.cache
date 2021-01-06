@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kxKOpB+v5Xr762Div5HbnwEXd2Mb+ZJ6QtkitCsmoRuWUk82rqRB5iViblOfc1KK80YA3tzRQa9/h1A1bGxcYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Motahar 1\\source\\repos\\asdasd\\Solution1\\FChart.WPF\\FChart.WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

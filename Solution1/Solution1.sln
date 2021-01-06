@@ -3,9 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30803.129
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{ED387F53-E399-4035-8AB1-7BCBEB3EA254}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UWP", "UWP", "{E91D0DE1-8BEC-4ECA-B99A-560A7B87255D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF", "WPF", "{E7BDEE9D-F2C8-4255-A7CE-845EFEE4EFC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Xamarin", "Xamarin", "{AF648268-8E54-4885-8DF1-2861049295B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FChart.WPF", "FChart.WPF\FChart.WPF.csproj", "{E42316F0-0FE2-48BE-9A3D-47B9BF15D657}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42316F0-0FE2-48BE-9A3D-47B9BF15D657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42316F0-0FE2-48BE-9A3D-47B9BF15D657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42316F0-0FE2-48BE-9A3D-47B9BF15D657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42316F0-0FE2-48BE-9A3D-47B9BF15D657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E91D0DE1-8BEC-4ECA-B99A-560A7B87255D} = {ED387F53-E399-4035-8AB1-7BCBEB3EA254}
+		{E7BDEE9D-F2C8-4255-A7CE-845EFEE4EFC8} = {ED387F53-E399-4035-8AB1-7BCBEB3EA254}
+		{AF648268-8E54-4885-8DF1-2861049295B7} = {ED387F53-E399-4035-8AB1-7BCBEB3EA254}
+		{E42316F0-0FE2-48BE-9A3D-47B9BF15D657} = {E7BDEE9D-F2C8-4255-A7CE-845EFEE4EFC8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {50970438-A51B-4443-AA6B-9AA93AC3EC7D}
