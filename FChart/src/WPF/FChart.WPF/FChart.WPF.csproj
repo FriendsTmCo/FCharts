@@ -9,24 +9,43 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Charts\Funnel Chart\" />
-    <Folder Include="Charts\Ballet Chart\" />
-    <Folder Include="Charts\Map_Based Plots\" />
-    <Folder Include="Charts\Scatter\" />
-    <Folder Include="Charts\Box Plot\" />
-    <Folder Include="Charts\Group Bar Chart\" />
-    <Folder Include="Charts\Doul Axis Chart\" />
-    <Folder Include="Charts\VioLin Plot\" />
-    <Folder Include="Charts\Heat Map\" />
-    <Folder Include="Charts\Water Chart\" />
-    <Folder Include="Charts\Radar Chart\" />
-    <Folder Include="Charts\Babble Chart\" />
-    <Folder Include="Charts\Bar Chart\" />
-    <Folder Include="Charts\Histo Gram\" />
-    <Folder Include="Charts\Area Chart\" />
-    <Folder Include="Charts\Line Chart\" />
-    <Folder Include="Charts\Pie Chart\" />
-    <Folder Include="Charts\Tree Map\" />
+    <None Remove="Charts\Area Chart\area-chart-example.png" />
+    <None Remove="Charts\Bar Chart\bar.png" />
+    <None Remove="Charts\Bar Line Chart\barline-1.png" />
+    <None Remove="Charts\Box Plot\boxplot.png" />
+    <None Remove="Charts\Bubble Chart\bubble.png" />
+    <None Remove="Charts\Bullet Chart\bullet.png" />
+    <None Remove="Charts\Doul Axis Chart\Doul Axis.jpg" />
+    <None Remove="Charts\Funnel Chart\funnel.png" />
+    <None Remove="Charts\Group Bar Chart\Group Bar.jpg" />
+    <None Remove="Charts\Heat Map\heatmap.png" />
+    <None Remove="Charts\Histo Gram\Histo Chart.png" />
+    <None Remove="Charts\Line Chart\linechart.png" />
+    <None Remove="Charts\Map_Based Plots\Map Based.jpg" />
+    <None Remove="Charts\Pie Chart\piechart.png" />
+    <None Remove="Charts\Radar Chart\radar_chart_dundas.png" />
+    <None Remove="Charts\Scatter Plot\scatterplot.png" />
+    <None Remove="Charts\Spark Line Chart\sparkline.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Charts\Area Chart\area-chart-example.png" />
+    <Content Include="Charts\Bar Chart\bar.png" />
+    <Content Include="Charts\Bar Line Chart\barline-1.png" />
+    <Content Include="Charts\Box Plot\boxplot.png" />
+    <Content Include="Charts\Bubble Chart\bubble.png" />
+    <Content Include="Charts\Bullet Chart\bullet.png" />
+    <Content Include="Charts\Doul Axis Chart\Doul Axis.jpg" />
+    <Content Include="Charts\Funnel Chart\funnel.png" />
+    <Content Include="Charts\Group Bar Chart\Group Bar.jpg" />
+    <Content Include="Charts\Heat Map\heatmap.png" />
+    <Content Include="Charts\Histo Gram\Histo Chart.png" />
+    <Content Include="Charts\Line Chart\linechart.png" />
+    <Content Include="Charts\Map_Based Plots\Map Based.jpg" />
+    <Content Include="Charts\Pie Chart\piechart.png" />
+    <Content Include="Charts\Radar Chart\radar_chart_dundas.png" />
+    <Content Include="Charts\Scatter Plot\scatterplot.png" />
+    <Content Include="Charts\Spark Line Chart\sparkline.png" />
   </ItemGroup>
 
 </Project>

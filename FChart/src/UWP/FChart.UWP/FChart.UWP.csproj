@@ -130,6 +130,23 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Charts\Area Chart\area-chart-example.png" />
+    <Content Include="Charts\Bar Line Chart\barline-1.png" />
+    <Content Include="Charts\Bubble Chart\bubble.png" />
+    <Content Include="Charts\Bar Chart\bar.png" />
+    <Content Include="Charts\Box Plot\boxplot.png" />
+    <Content Include="Charts\Bullet Chart\bullet.png" />
+    <Content Include="Charts\Doul Axis Chart\Doul Axis.jpg" />
+    <Content Include="Charts\Funnel Chart\funnel.png" />
+    <Content Include="Charts\Group Bar Chart\Group Bar.jpg" />
+    <Content Include="Charts\Heat Map\heatmap.png" />
+    <Content Include="Charts\Histo Gram\Histo Chart.png" />
+    <Content Include="Charts\Line Chart\linechart.png" />
+    <Content Include="Charts\Map_Based Plots\Map Based.jpg" />
+    <Content Include="Charts\Pie Chart\piechart.png" />
+    <Content Include="Charts\Radar Chart\radar_chart_dundas.png" />
+    <Content Include="Charts\Scatter Plot\scatterplot.png" />
+    <Content Include="Charts\Spark Line Chart\sparkline.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
@@ -154,26 +171,7 @@
       <Version>6.2.10</Version>
     </PackageReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Charts\Area Chart\" />
-    <Folder Include="Charts\Babble Chart\" />
-    <Folder Include="Charts\Ballet Chart\" />
-    <Folder Include="Charts\Bar Chart\" />
-    <Folder Include="Charts\Box Plot\" />
-    <Folder Include="Charts\Doul Axis Chart\" />
-    <Folder Include="Charts\Funnel Chart\" />
-    <Folder Include="Charts\Group Bar Chart\" />
-    <Folder Include="Charts\Heat Map\" />
-    <Folder Include="Charts\Histo Gram\" />
-    <Folder Include="Charts\Line Chart\" />
-    <Folder Include="Charts\Map_Based Plots\" />
-    <Folder Include="Charts\Pie Chart\" />
-    <Folder Include="Charts\Radar Chart\" />
-    <Folder Include="Charts\Scatter\" />
-    <Folder Include="Charts\Tree Map\" />
-    <Folder Include="Charts\VioLin Plot\" />
-    <Folder Include="Charts\Water Chart\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
