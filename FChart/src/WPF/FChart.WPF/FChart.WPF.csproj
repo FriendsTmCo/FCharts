@@ -48,10 +48,4 @@
     <Content Include="Charts\Spark Line Chart\sparkline.png" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="Charts\Area Chart\WPF.AreaChart">
-      <Generator>MSBuild:Compile</Generator>
-    </None>
-  </ItemGroup>
-
 </Project>
