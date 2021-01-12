@@ -155,7 +155,24 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Charts\" />
+    <Folder Include="Charts\Area Chart\" />
+    <Folder Include="Charts\Babble Chart\" />
+    <Folder Include="Charts\Ballet Chart\" />
+    <Folder Include="Charts\Bar Chart\" />
+    <Folder Include="Charts\Box Plot\" />
+    <Folder Include="Charts\Doul Axis Chart\" />
+    <Folder Include="Charts\Funnel Chart\" />
+    <Folder Include="Charts\Group Bar Chart\" />
+    <Folder Include="Charts\Heat Map\" />
+    <Folder Include="Charts\Histo Gram\" />
+    <Folder Include="Charts\Line Chart\" />
+    <Folder Include="Charts\Map_Based Plots\" />
+    <Folder Include="Charts\Pie Chart\" />
+    <Folder Include="Charts\Radar Chart\" />
+    <Folder Include="Charts\Scatter\" />
+    <Folder Include="Charts\Tree Map\" />
+    <Folder Include="Charts\VioLin Plot\" />
+    <Folder Include="Charts\Water Chart\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>

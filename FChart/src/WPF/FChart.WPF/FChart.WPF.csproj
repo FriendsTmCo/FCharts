@@ -9,7 +9,24 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Charts\" />
+    <Folder Include="Charts\Funnel Chart\" />
+    <Folder Include="Charts\Ballet Chart\" />
+    <Folder Include="Charts\Map_Based Plots\" />
+    <Folder Include="Charts\Scatter\" />
+    <Folder Include="Charts\Box Plot\" />
+    <Folder Include="Charts\Group Bar Chart\" />
+    <Folder Include="Charts\Doul Axis Chart\" />
+    <Folder Include="Charts\VioLin Plot\" />
+    <Folder Include="Charts\Heat Map\" />
+    <Folder Include="Charts\Water Chart\" />
+    <Folder Include="Charts\Radar Chart\" />
+    <Folder Include="Charts\Babble Chart\" />
+    <Folder Include="Charts\Bar Chart\" />
+    <Folder Include="Charts\Histo Gram\" />
+    <Folder Include="Charts\Area Chart\" />
+    <Folder Include="Charts\Line Chart\" />
+    <Folder Include="Charts\Pie Chart\" />
+    <Folder Include="Charts\Tree Map\" />
   </ItemGroup>
 
 </Project>
