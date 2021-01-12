@@ -119,6 +119,57 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Charts\Area Chart\AreaChart.xaml.cs">
+      <DependentUpon>AreaChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Bar Chart\BarChart.xaml.cs">
+      <DependentUpon>BarChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Bar Line Chart\BarLineChart.xaml.cs">
+      <DependentUpon>BarLineChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Box Plot\BoxPlot.xaml.cs">
+      <DependentUpon>BoxPlot.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Bubble Chart\BubbleChart.xaml.cs">
+      <DependentUpon>BubbleChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Bullet Chart\BulletChart.xaml.cs">
+      <DependentUpon>BulletChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Doul Axis Chart\DoulAxisChart.xaml.cs">
+      <DependentUpon>DoulAxisChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Funnel Chart\FunnelChart.xaml.cs">
+      <DependentUpon>FunnelChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Group Bar Chart\GroupBarChart.xaml.cs">
+      <DependentUpon>GroupBarChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Heat Map\HeatMap.xaml.cs">
+      <DependentUpon>HeatMap.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Histo Gram\HistoGram.xaml.cs">
+      <DependentUpon>HistoGram.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Line Chart\LineChart.xaml.cs">
+      <DependentUpon>LineChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Map_Based Plots\MapBasedPlot.xaml.cs">
+      <DependentUpon>MapBasedPlot.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Pie Chart\PieChart.xaml.cs">
+      <DependentUpon>PieChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Radar Chart\RadarChart.xaml.cs">
+      <DependentUpon>RadarChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Scatter Plot\ScatterPlot.xaml.cs">
+      <DependentUpon>ScatterPlot.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Charts\Spark Line Chart\SparkLineChart.xaml.cs">
+      <DependentUpon>SparkLineChart.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -161,6 +212,74 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="Charts\Area Chart\AreaChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Bar Chart\BarChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Bar Line Chart\BarLineChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Box Plot\BoxPlot.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Bubble Chart\BubbleChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Bullet Chart\BulletChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Doul Axis Chart\DoulAxisChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Funnel Chart\FunnelChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Group Bar Chart\GroupBarChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Heat Map\HeatMap.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Histo Gram\HistoGram.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Line Chart\LineChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Map_Based Plots\MapBasedPlot.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Pie Chart\PieChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Radar Chart\RadarChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Scatter Plot\ScatterPlot.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Charts\Spark Line Chart\SparkLineChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainPage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
